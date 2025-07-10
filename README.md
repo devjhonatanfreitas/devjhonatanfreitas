@@ -1,4 +1,4 @@
-# ♨️ Olá Mundo! Eu sou o Jhonatan!
+# ♨️ Hello World! I'm Jhonatan!
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="2"/>
 </div>
@@ -11,11 +11,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="2"/>
 </div>
 
-## 🚀 Sobre Mim
+## 🚀 About me
 
-Técnico em eletroeletrônica e especialista certificado Apple desde 2016. Estou finalizando a faculdade de Análise e Desenvolvimento de Sistemas e migrando para a área de desenvolvimento, em busca de uma primeira oportunidade. 
+Sr. Electronic Technician and Apple Certified Technician since 2016. I'm completing my degree in Systems Analysis and Development and entering the development field, seeking my first opportunity.
 
-## 🛠️ Atualmente estudando
+## 🛠️ Currently studying
 
 ### ☕ Backend 
 <div align="center">
@@ -36,7 +36,7 @@ Técnico em eletroeletrônica e especialista certificado Apple desde 2016. Estou
 
 </div>
 
-### 🔧 Ferramentas & DevOps
+### 🔧 Tools & DevOps
 <div align="center">
   
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -46,7 +46,7 @@ Técnico em eletroeletrônica e especialista certificado Apple desde 2016. Estou
 
 </div>
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjhonatanfreitas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -59,7 +59,7 @@ Técnico em eletroeletrônica e especialista certificado Apple desde 2016. Estou
 
 </div>
 
-## 📫 Entre em contato!
+## 📫 Get in touch!
 
 <div align="center">
   
